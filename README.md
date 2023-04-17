@@ -1,5 +1,5 @@
-See 
-https://www.youtube.com/embed/IjUnQ9kMnVo ! This repo is based on that video!
+See
+<https://www.youtube.com/embed/IjUnQ9kMnVo> ! This repo is based on that video!
 
 ## Deploying NextJS apps to GCP Cloud Run with Github Actions
 
@@ -22,3 +22,4 @@ https://www.youtube.com/embed/IjUnQ9kMnVo ! This repo is based on that video!
 3. Build a docker image of the NextJS app
 4. Add your code to Git
 5. Create a github workflow (Action) and deploy the app.
+6. test!
